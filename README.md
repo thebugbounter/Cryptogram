@@ -31,3 +31,5 @@ The project supports multiple encryption algorithms. Make sure to choose the one
 
 Feel free to explore and experiment with different strings and encryption options!
 
+##Made by - JAS PREET (https://github.com/thebugbounter)
+
