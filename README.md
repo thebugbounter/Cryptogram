@@ -1,6 +1,5 @@
 # Cryptogram
-
-Cryptogram is a simple encryption project that allows you to encrypt a string using different encryption algorithms.
+Cryptogram is a Python-based project that provides a simple yet effective way to encrypt and decrypt messages using the hashlib package. This project is designed to enhance the security of your sensitive information through the implementation of popular hashing algorithms.
 
 ## Files
 
